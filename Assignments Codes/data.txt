@@ -1,0 +1,5 @@
+This is a demo File and now from this file-
+the program will calculate multiple things i.e.
+1. No. of lines
+2. No. of words
+3. No. of characters
