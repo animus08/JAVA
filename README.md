@@ -1,4 +1,4 @@
-# Java Examples
+# Java
 
 Small collection of Java example programs organized by topic for learning.
 
